@@ -8,7 +8,7 @@ This repository contains the extended version of our ICRA submission [TODO]. We 
     * [Gym Taxi-v3](#gym-taxi-v3)
 
 # Generative Q-Value Model Architecture 
-<p align="center">
+<p align="center",  margin="25px 0px 10px 0px">
   <img src="https://github.com/hoy021/ICRA-extended/blob/dev/plots/generative_q_model.jpg?raw=true" alt="generative Q-value model architecture", width="800", style="vertical-align:middle;margin:25px 0px 10px 0px" >
 	<p align="center"><b>Model architecture of the proposed generative Q-value model</b></p>
 </p>
@@ -26,14 +26,10 @@ This repository contains the extended version of our ICRA submission [TODO]. We 
   <p align="center"><b>Validation logs of all components in obstacle avoidance</b></p>
 </p>
 
-<div class="row" align="center" style="margin:35px 0px 10px 0px;display: flex;justify-content: center;">
-  <div class="column" style="float:left;">
-    <img src="https://github.com/hoy021/ICRA-extended/blob/dev/plots/obstacle_avoidance/ablation_loss.png?raw=true" alt="ablation: training" style="width:400;" >
-  </div>
-  <div class="column" style="float:left;">
-    <img src="https://github.com/hoy021/ICRA-extended/blob/dev/plots/obstacle_avoidance/ablation_val_loss.png?raw=true" alt="model validation logs" style="width:400;">
-  </div>
-</div>
+<p align = "center", float = "left">
+    <img src="https://github.com/hoy021/ICRA-extended/blob/dev/plots/obstacle_avoidance/ablation_loss.png?raw=true" alt="ablation: training"  >
+    <img src="https://github.com/hoy021/ICRA-extended/blob/dev/plots/obstacle_avoidance/ablation_val_loss.png?raw=true" alt="model validation logs">
+</p>
 <p align="center"><b>Ablation study: training & validation loss</b></p>
 
 <p align="center">
