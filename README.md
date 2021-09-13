@@ -1,13 +1,13 @@
 # Extended Submissions 
 This repository contains the extended version of our ICRA submission [TODO]. We also provide the high-resolution plots used in the paper as following:
-* [Generative Q-value Model Architecture](#generative-q-value-model-architecture)
+* [Predictive Q-value Model Architecture](#predictive-q-value-model-architecture)
 * Scenarios 
     * [Obstacle Avoidance](#obstacle-avoidance) 
     * [Intersection Negotiation](#intersection-negotiation)
     * [Highway Lane-changing](#highway-lane-changing)
     * [Gym Taxi-v3](#gym-taxi-v3)
 
-# Generative Q-Value Model Architecture 
+# Predictive Q-Value Model Architecture 
 <p align="center",  margin="25px 0px 10px 0px">
   <img src="https://github.com/hoy021/ICRA-extended/blob/dev/plots/predictive_q_model.jpg?raw=true" alt="generative Q-value model architecture", width="800", style="vertical-align:middle;margin:25px 0px 10px 0px" >
 	<p align="center"><b>Model architecture of the proposed generative Q-value model</b></p>
