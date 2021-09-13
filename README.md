@@ -9,9 +9,10 @@ This repository contains the extended version of our ICRA submission [TODO]. We 
 
 # Generative Q-Value Model Architecture 
 <p align="center",  margin="25px 0px 10px 0px">
-  <img src="https://github.com/hoy021/ICRA-extended/blob/dev/plots/generative_q_model.jpg?raw=true" alt="generative Q-value model architecture", width="800", style="vertical-align:middle;margin:25px 0px 10px 0px" >
+  <img src="https://github.com/hoy021/ICRA-extended/blob/dev/plots/predictive_q_model.jpg?raw=true" alt="generative Q-value model architecture", width="800", style="vertical-align:middle;margin:25px 0px 10px 0px" >
 	<p align="center"><b>Model architecture of the proposed generative Q-value model</b></p>
 </p>
+
 <br/><br/>
 
 # Obstacle Avoidance 
