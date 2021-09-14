@@ -78,3 +78,10 @@ This repository contains the extended version of our ICRA submission [TODO]. We 
   <p align="center"><b>Baseline interpretations</b></p>
 </p>
 <br/><br/>
+
+<hr>  
+<p align="center">
+  <img src="https://github.com/hoy021/ICRA-extended/blob/dev/plots/many_plots.jpg?raw=true" alt="the compound plot used in the paper", width="900", style="vertical-align:middle;margin:25px 0px 10px 0px;float:center;" >
+  <p align="center"><b>Figure 4 in the paper</b></p>
+</p>
+
