@@ -40,6 +40,7 @@ This repository contains the extended version of our ICRA submission [TODO]. We 
   <img src="https://github.com/hoy021/ICRA-extended/blob/dev/plots/obstacle_avoidance/ablation_example.jpg?raw=true" alt="ablation example", width="600", style="vertical-align:middle;margin:35px 0px 10px 0px;float:center;" >
   <p align="center"><b>Ablation study: performance visualization</b></p>
 </p>
+
 <br/><br/>
 
 # Intersection Negotiation
