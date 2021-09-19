@@ -1,5 +1,5 @@
 # Extended Submissions 
-This repository contains the extended version of our ICRA submission [TODO]. We also provide the high-resolution plots used in the paper as following:
+This repository contains the [extended version](https://github.com/hoy021/ICRA-extended/blob/dev/Learning_Interpretable_Action_Value_Predictions_in_Autonomous_Driving.pdf) of our ICRA submission. We also provide the high-resolution plots used in the paper as following:
 * [Predictive Q-value Model Architecture](#predictive-q-value-model-architecture)
 * Scenarios 
     * [Obstacle Avoidance](#obstacle-avoidance) 
